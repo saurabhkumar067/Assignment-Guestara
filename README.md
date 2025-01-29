@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone [https://github.com/your-repo/resource-calendar.git](https://github.com/saurabhkumar067/Assignment-Guestara.git)
+git clone https://github.com/saurabhkumar067/Assignment-Guestara.git
 ```
 
 ### Install Dependencies
