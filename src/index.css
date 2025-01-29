@@ -1,0 +1,33 @@
+@import "tailwindcss";
+/* 
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .app-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  // src/Calendar.css
+  .calendar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .calendar {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  .event {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: grab;
+  }
+   */
